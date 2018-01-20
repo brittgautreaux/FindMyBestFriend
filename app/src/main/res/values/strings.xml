@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DogFinder</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_message">Username</string>
+    <string name="button_send">Login</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_email_exists">This email address already exists</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_password_match">Passwords do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="success_message">Succes</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_confirm_password">Confirm Password</string>
+
+    <!-- Navigation Bottom Values -->
+    <string name="navigation_home">Home</string>
+    <string name="navigation_add">Add</string>
+</resources>
